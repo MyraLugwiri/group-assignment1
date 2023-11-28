@@ -1,4 +1,4 @@
-# group-assignment1
+# group-assignment1-Study Group17
 > Link to the Web App: https://manufacturing-defects-app.streamlit.app/
 
 > Link to Hosted Pipeline:
