@@ -56,10 +56,10 @@ def display_predictions(predictions):
 
 
 # initialising the RandomForestClassifier
-random_model_path = 'rf_classifier.sav '
+random_model_path = 'rf_classifier.sav'
 random_model = joblib.load(random_model_path)
 
-label_encoder_path = 'label_encoder.sav '
+label_encoder_path = 'label_encoder.sav'
 label_encoder = joblib.load(label_encoder_path)
 
 # loading the VGG16 Model
